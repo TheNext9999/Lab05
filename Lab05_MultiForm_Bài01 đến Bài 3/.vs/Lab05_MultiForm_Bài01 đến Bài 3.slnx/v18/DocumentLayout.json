@@ -1,0 +1,168 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\BT Classroom Lab\\Lab05\\Lab05_MultiForm_B\u00E0i01 \u0111\u1EBFn B\u00E0i 3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{93862DC5-D9E2-4D6F-8C0C-0288A3E81F38}|Lab05_MultiForm\\Lab05_MultiForm.csproj|d:\\bt classroom lab\\lab05\\lab05_multiform_b\u00E0i01 \u0111\u1EBFn b\u00E0i 3\\lab05_multiform\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93862DC5-D9E2-4D6F-8C0C-0288A3E81F38}|Lab05_MultiForm\\Lab05_MultiForm.csproj|solutionrelative:lab05_multiform\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93862DC5-D9E2-4D6F-8C0C-0288A3E81F38}|Lab05_MultiForm\\Lab05_MultiForm.csproj|D:\\BT Classroom Lab\\Lab05\\Lab05_MultiForm_B\u00E0i01 \u0111\u1EBFn B\u00E0i 3\\lab05_multiform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93862DC5-D9E2-4D6F-8C0C-0288A3E81F38}|Lab05_MultiForm\\Lab05_MultiForm.csproj|solutionrelative:lab05_multiform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93862DC5-D9E2-4D6F-8C0C-0288A3E81F38}|Lab05_MultiForm\\Lab05_MultiForm.csproj|d:\\bt classroom lab\\lab05\\lab05_multiform_b\u00E0i01 \u0111\u1EBFn b\u00E0i 3\\lab05_multiform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{93862DC5-D9E2-4D6F-8C0C-0288A3E81F38}|Lab05_MultiForm\\Lab05_MultiForm.csproj|solutionrelative:lab05_multiform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93862DC5-D9E2-4D6F-8C0C-0288A3E81F38}|Lab05_MultiForm\\Lab05_MultiForm.csproj|d:\\bt classroom lab\\lab05\\lab05_multiform_b\u00E0i01 \u0111\u1EBFn b\u00E0i 3\\lab05_multiform\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93862DC5-D9E2-4D6F-8C0C-0288A3E81F38}|Lab05_MultiForm\\Lab05_MultiForm.csproj|solutionrelative:lab05_multiform\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93862DC5-D9E2-4D6F-8C0C-0288A3E81F38}|Lab05_MultiForm\\Lab05_MultiForm.csproj|d:\\bt classroom lab\\lab05\\lab05_multiform_b\u00E0i01 \u0111\u1EBFn b\u00E0i 3\\lab05_multiform\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{93862DC5-D9E2-4D6F-8C0C-0288A3E81F38}|Lab05_MultiForm\\Lab05_MultiForm.csproj|solutionrelative:lab05_multiform\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93862DC5-D9E2-4D6F-8C0C-0288A3E81F38}|Lab05_MultiForm\\Lab05_MultiForm.csproj|d:\\bt classroom lab\\lab05\\lab05_multiform_b\u00E0i01 \u0111\u1EBFn b\u00E0i 3\\lab05_multiform\\frmdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{93862DC5-D9E2-4D6F-8C0C-0288A3E81F38}|Lab05_MultiForm\\Lab05_MultiForm.csproj|solutionrelative:lab05_multiform\\frmdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93862DC5-D9E2-4D6F-8C0C-0288A3E81F38}|Lab05_MultiForm\\Lab05_MultiForm.csproj|d:\\bt classroom lab\\lab05\\lab05_multiform_b\u00E0i01 \u0111\u1EBFn b\u00E0i 3\\lab05_multiform\\frmdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93862DC5-D9E2-4D6F-8C0C-0288A3E81F38}|Lab05_MultiForm\\Lab05_MultiForm.csproj|solutionrelative:lab05_multiform\\frmdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93862DC5-D9E2-4D6F-8C0C-0288A3E81F38}|Lab05_MultiForm\\Lab05_MultiForm.csproj|D:\\BT Classroom Lab\\Lab05\\Lab05_MultiForm_B\u00E0i01 \u0111\u1EBFn B\u00E0i 3\\lab05_multiform\\sinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93862DC5-D9E2-4D6F-8C0C-0288A3E81F38}|Lab05_MultiForm\\Lab05_MultiForm.csproj|solutionrelative:lab05_multiform\\sinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93862DC5-D9E2-4D6F-8C0C-0288A3E81F38}|Lab05_MultiForm\\Lab05_MultiForm.csproj|D:\\BT Classroom Lab\\Lab05\\Lab05_MultiForm_B\u00E0i01 \u0111\u1EBFn B\u00E0i 3\\lab05_multiform\\frmchitietsinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93862DC5-D9E2-4D6F-8C0C-0288A3E81F38}|Lab05_MultiForm\\Lab05_MultiForm.csproj|solutionrelative:lab05_multiform\\frmchitietsinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\BT Classroom Lab\\Lab05\\Lab05_MultiForm_B\u00E0i01 \u0111\u1EBFn B\u00E0i 3\\Lab05_MultiForm\\Form1.cs",
+              "RelativeDocumentMoniker": "Lab05_MultiForm\\Form1.cs",
+              "ToolTip": "D:\\BT Classroom Lab\\Lab05\\Lab05_MultiForm_B\u00E0i01 \u0111\u1EBFn B\u00E0i 3\\Lab05_MultiForm\\Form1.cs [Design]",
+              "RelativeToolTip": "Lab05_MultiForm\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-23T01:43:02.526Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\BT Classroom Lab\\Lab05\\Lab05_MultiForm_B\u00E0i01 \u0111\u1EBFn B\u00E0i 3\\Lab05_MultiForm\\Form1.cs",
+              "RelativeDocumentMoniker": "Lab05_MultiForm\\Form1.cs",
+              "ToolTip": "D:\\BT Classroom Lab\\Lab05\\Lab05_MultiForm_B\u00E0i01 \u0111\u1EBFn B\u00E0i 3\\Lab05_MultiForm\\Form1.cs",
+              "RelativeToolTip": "Lab05_MultiForm\\Form1.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABUAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-22T10:55:28.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmMain.cs",
+              "DocumentMoniker": "D:\\BT Classroom Lab\\Lab05\\Lab05_MultiForm_B\u00E0i01 \u0111\u1EBFn B\u00E0i 3\\Lab05_MultiForm\\frmMain.cs",
+              "RelativeDocumentMoniker": "Lab05_MultiForm\\frmMain.cs",
+              "ToolTip": "D:\\BT Classroom Lab\\Lab05\\Lab05_MultiForm_B\u00E0i01 \u0111\u1EBFn B\u00E0i 3\\Lab05_MultiForm\\frmMain.cs",
+              "RelativeToolTip": "Lab05_MultiForm\\frmMain.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAADwv00AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-23T01:29:32.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmMain.cs [Design]",
+              "DocumentMoniker": "D:\\BT Classroom Lab\\Lab05\\Lab05_MultiForm_B\u00E0i01 \u0111\u1EBFn B\u00E0i 3\\Lab05_MultiForm\\frmMain.cs",
+              "RelativeDocumentMoniker": "Lab05_MultiForm\\frmMain.cs",
+              "ToolTip": "D:\\BT Classroom Lab\\Lab05\\Lab05_MultiForm_B\u00E0i01 \u0111\u1EBFn B\u00E0i 3\\Lab05_MultiForm\\frmMain.cs [Design]",
+              "RelativeToolTip": "Lab05_MultiForm\\frmMain.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-23T01:18:03.163Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\BT Classroom Lab\\Lab05\\Lab05_MultiForm_B\u00E0i01 \u0111\u1EBFn B\u00E0i 3\\Lab05_MultiForm\\Program.cs",
+              "RelativeDocumentMoniker": "Lab05_MultiForm\\Program.cs",
+              "ToolTip": "D:\\BT Classroom Lab\\Lab05\\Lab05_MultiForm_B\u00E0i01 \u0111\u1EBFn B\u00E0i 3\\Lab05_MultiForm\\Program.cs",
+              "RelativeToolTip": "Lab05_MultiForm\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-23T01:15:39.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frmDangNhap.cs",
+              "DocumentMoniker": "D:\\BT Classroom Lab\\Lab05\\Lab05_MultiForm_B\u00E0i01 \u0111\u1EBFn B\u00E0i 3\\Lab05_MultiForm\\frmDangNhap.cs",
+              "RelativeDocumentMoniker": "Lab05_MultiForm\\frmDangNhap.cs",
+              "ToolTip": "D:\\BT Classroom Lab\\Lab05\\Lab05_MultiForm_B\u00E0i01 \u0111\u1EBFn B\u00E0i 3\\Lab05_MultiForm\\frmDangNhap.cs",
+              "RelativeToolTip": "Lab05_MultiForm\\frmDangNhap.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAcwB8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-23T00:30:36.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmDangNhap.cs [Design]",
+              "DocumentMoniker": "D:\\BT Classroom Lab\\Lab05\\Lab05_MultiForm_B\u00E0i01 \u0111\u1EBFn B\u00E0i 3\\Lab05_MultiForm\\frmDangNhap.cs",
+              "RelativeDocumentMoniker": "Lab05_MultiForm\\frmDangNhap.cs",
+              "ToolTip": "D:\\BT Classroom Lab\\Lab05\\Lab05_MultiForm_B\u00E0i01 \u0111\u1EBFn B\u00E0i 3\\Lab05_MultiForm\\frmDangNhap.cs [Design]",
+              "RelativeToolTip": "Lab05_MultiForm\\frmDangNhap.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-22T16:20:55.429Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "frmChiTietSinhVien.cs",
+              "DocumentMoniker": "D:\\BT Classroom Lab\\Lab05\\Lab05_MultiForm_B\u00E0i01 \u0111\u1EBFn B\u00E0i 3\\Lab05_MultiForm\\frmChiTietSinhVien.cs",
+              "RelativeDocumentMoniker": "Lab05_MultiForm\\frmChiTietSinhVien.cs",
+              "ToolTip": "D:\\BT Classroom Lab\\Lab05\\Lab05_MultiForm_B\u00E0i01 \u0111\u1EBFn B\u00E0i 3\\Lab05_MultiForm\\frmChiTietSinhVien.cs",
+              "RelativeToolTip": "Lab05_MultiForm\\frmChiTietSinhVien.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAcwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-22T13:05:34.232Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SinhVien.cs",
+              "DocumentMoniker": "D:\\BT Classroom Lab\\Lab05\\Lab05_MultiForm_B\u00E0i01 \u0111\u1EBFn B\u00E0i 3\\Lab05_MultiForm\\SinhVien.cs",
+              "RelativeDocumentMoniker": "Lab05_MultiForm\\SinhVien.cs",
+              "ToolTip": "D:\\BT Classroom Lab\\Lab05\\Lab05_MultiForm_B\u00E0i01 \u0111\u1EBFn B\u00E0i 3\\Lab05_MultiForm\\SinhVien.cs",
+              "RelativeToolTip": "Lab05_MultiForm\\SinhVien.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-22T13:01:41.425Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

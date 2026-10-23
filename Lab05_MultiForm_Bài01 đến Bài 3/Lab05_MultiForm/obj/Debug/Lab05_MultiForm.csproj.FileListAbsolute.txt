@@ -1,0 +1,13 @@
+D:\BT Classroom Lab\Lab05\Lab05_MultiForm_Bài01 đến Bài 3\Lab05_MultiForm\obj\Debug\Lab05_MultiForm.csproj.AssemblyReference.cache
+D:\BT Classroom Lab\Lab05\Lab05_MultiForm_Bài01 đến Bài 3\Lab05_MultiForm\obj\Debug\Lab05_MultiForm.Properties.Resources.resources
+D:\BT Classroom Lab\Lab05\Lab05_MultiForm_Bài01 đến Bài 3\Lab05_MultiForm\obj\Debug\Lab05_MultiForm.csproj.GenerateResource.cache
+D:\BT Classroom Lab\Lab05\Lab05_MultiForm_Bài01 đến Bài 3\Lab05_MultiForm\obj\Debug\Lab05_MultiForm.csproj.CoreCompileInputs.cache
+D:\BT Classroom Lab\Lab05\Lab05_MultiForm_Bài01 đến Bài 3\Lab05_MultiForm\obj\Debug\Lab05_MultiForm.frmChiTietSinhVien.resources
+D:\BT Classroom Lab\Lab05\Lab05_MultiForm_Bài01 đến Bài 3\Lab05_MultiForm\obj\Debug\Lab05_MultiForm.Form1.resources
+D:\BT Classroom Lab\Lab05\Lab05_MultiForm_Bài01 đến Bài 3\Lab05_MultiForm\bin\Debug\Lab05_MultiForm.exe.config
+D:\BT Classroom Lab\Lab05\Lab05_MultiForm_Bài01 đến Bài 3\Lab05_MultiForm\bin\Debug\Lab05_MultiForm.exe
+D:\BT Classroom Lab\Lab05\Lab05_MultiForm_Bài01 đến Bài 3\Lab05_MultiForm\bin\Debug\Lab05_MultiForm.pdb
+D:\BT Classroom Lab\Lab05\Lab05_MultiForm_Bài01 đến Bài 3\Lab05_MultiForm\obj\Debug\Lab05_MultiForm.exe
+D:\BT Classroom Lab\Lab05\Lab05_MultiForm_Bài01 đến Bài 3\Lab05_MultiForm\obj\Debug\Lab05_MultiForm.pdb
+D:\BT Classroom Lab\Lab05\Lab05_MultiForm_Bài01 đến Bài 3\Lab05_MultiForm\obj\Debug\Lab05_MultiForm.frmDangNhap.resources
+D:\BT Classroom Lab\Lab05\Lab05_MultiForm_Bài01 đến Bài 3\Lab05_MultiForm\obj\Debug\Lab05_MultiForm.frmMain.resources
